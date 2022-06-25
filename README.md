@@ -1,1 +1,1 @@
-"# button-game-react-native" 
+A practice of making a game using React-Native
